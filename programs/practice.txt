@@ -1,0 +1,15 @@
+Write following programs
+
+1.  Write a function to get area of circle
+    -   Take - r (Radius of circle)
+    -   Return - PI * r2 (Area of circle)
+
+2.  Write a function to sum all numbers in the given list
+    -   Take - list of numbers  Ex. - [1, 4, 5]
+    -   Return - sum of all the numbers
+
+3. Write a function to multiply given two numbers
+    -   Take - two numbers x and y
+    -   Return - multiplication of x and y
+
+    
